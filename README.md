@@ -78,13 +78,13 @@ An Aspiring Web Developer from Lahore, Pakistan
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zain-123-hash&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zain-dev-ai-ml&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-123-hash&layout=compact&theme=tokyonight" alt="Most Used Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-dev-ai-ml&layout=compact&theme=tokyonight" alt="Most Used Languages" height="150"/>
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-123-hash&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-dev-ai-ml&theme=tokyonight" alt="GitHub Streak"/>
 </p>
