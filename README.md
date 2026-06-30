@@ -26,6 +26,10 @@ An Aspiring Web Developer from Lahore, Pakistan
   <a href="https://www.facebook.com/Zain.Qureshi.705" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
+
+  <a href="https://leetcode.com/u/zain-ai-dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
 </p>
 
 
